@@ -1,6 +1,6 @@
 # SQL-Game-Project
 
-Hello and welcome to the "Catch the Fish" game.
+<h1>Hello and welcome to the "Catch the Fish" game.<h1>
 This game is written entirely in SQL language, in the SSMS environment, in the developer version of SQL SERVER.
 In order to play the game, you need to access the Procedures Script and execute the code.
 After you did that, you need to open the game script and execute the procedures. You can also type your own details and see what happened.
